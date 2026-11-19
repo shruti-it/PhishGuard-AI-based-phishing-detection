@@ -1,0 +1,20 @@
+{
+    "XGBoost": {
+        "accuracy": 96.25,
+        "precision": 96.25,
+        "recall": 96.25,
+        "f1": 96.25
+    },
+    "Random Forest": {
+        "accuracy": 96.6,
+        "precision": 96.6,
+        "recall": 96.6,
+        "f1": 96.6
+    },
+    "Logistic Regression": {
+        "accuracy": 96.75,
+        "precision": 96.75,
+        "recall": 96.75,
+        "f1": 96.75
+    }
+}
